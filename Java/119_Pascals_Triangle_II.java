@@ -1,9 +1,12 @@
 class Solution {
-    public List<Integer> getRow(int rowIndex) {
-        List<Integer> result = new ArrayList();
-        for(int i = 0; i< rowIndex+1; ++i) result.add(1);
-        for(int i = 1; i< rowIndex; ++i)
-            for(int j = i; j > 0; --j) result.set(j, result.get(j)+ result.get(j-1));
-        return result;
+    public String reverseWords(String s) {
+        String[] str = s.split(" ");
+        List<String> list = Arrays.asList(str);
+        String result = "";
+        for(String st : list){
+            StringBuilder strb = new StringBuilder(st);
+            result += " " + strb.reverse().toString();
+        }
+        return result.substring(1);
     }
 }
