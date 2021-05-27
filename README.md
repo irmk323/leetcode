@@ -1,6 +1,7 @@
 # Leetcode
 | Problem | Solution |
 | ------------- | ------------- |
+| [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/119_Pascals_Triangle_II.java) |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/144_Binary_Tree_Preorder_Traversal.java) |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/283_Move_Zeroes.java) |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
