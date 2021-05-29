@@ -1,6 +1,7 @@
 # Leetcode
 | Problem | Solution |
 | ------------- | ------------- |
+| [112. Path Sum](https://leetcode.com/problems/path-sum/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/101_Symmetric_Tree.java) |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Link](https://github.com/irmk323/leetcode/blob/master/Java/101_Symmetric_Tree.java) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/104_Maximum_Depth_of_Binary_Tree.java) |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/102_Binary_Tree_Level_Order_Traversal.java) |
