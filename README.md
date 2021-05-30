@@ -1,6 +1,7 @@
 # Leetcode
 | Problem | Solution |
 | ------------- | ------------- |
+| [250. Count Univalue Subtrees])(https://leetcode.com/problems/count-univalue-subtrees/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/250_Count_Univalue_Subtrees.java) |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/101_Symmetric_Tree.java) |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Link](https://github.com/irmk323/leetcode/blob/master/Java/101_Symmetric_Tree.java) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/104_Maximum_Depth_of_Binary_Tree.java) |
