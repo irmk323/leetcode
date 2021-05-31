@@ -1,6 +1,7 @@
 # Leetcode
 | Problem | Solution |
 | ------------- | ------------- |
+| [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java) |
 | [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/250_Count_Univalue_Subtrees.java) |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/101_Symmetric_Tree.java) |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Link](https://github.com/irmk323/leetcode/blob/master/Java/101_Symmetric_Tree.java) |
