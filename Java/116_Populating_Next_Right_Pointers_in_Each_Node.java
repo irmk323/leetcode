@@ -24,13 +24,13 @@ class Node {
 class Solution {
     public Node connect(Node root) {
         Node leftNode = root;
-        while(leftNode != null && leftNode.left != null){
-            populateLowerLebel(leftNode);
-            leftNode = leftNode.left;
+        while(leftNode != null & leftNode.left != null){
+            populateLeftNode(leftNode);
+                leftNode = leftNode.left;
         }
         return root;
     }
-    private void populateLowerLebel(Node startNode){
+    private void populateLeftNode(Node startNode){
         Node iter = startNode;
         while(iter != null){
             iter.left.next = iter.right;
@@ -38,7 +38,8 @@ class Solution {
                 iter.right.next = iter.next.left;
             }
             iter = iter.next;
-            
         }
+        
     }
+    
 }
