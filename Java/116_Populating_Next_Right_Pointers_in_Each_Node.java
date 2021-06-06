@@ -39,7 +39,5 @@ class Solution {
             }
             iter = iter.next;
         }
-        
     }
-    
 }
