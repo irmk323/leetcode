@@ -1,4 +1,4 @@
-# Leetcode(17 solved)
+# Leetcode(18 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/117_Populating_Next_Right_Pointers_in_Each_Node_II.java) |
