@@ -1,6 +1,7 @@
 # Leetcode(17 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/117_Populating_Next_Right_Pointers_in_Each_Node_II.java) |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/116_Populating_Next_Right_Pointers_in_Each_Node.java) |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Link](https://github.com/irmk323/leetcode/blob/master/Java/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java) |
 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java) |
