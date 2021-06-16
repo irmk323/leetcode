@@ -1,4 +1,4 @@
-# Leetcode(19 solved)
+# Leetcode(20 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/solution/)| [Link](https://github.com/irmk323/leetcode/blob/master/Java/24_Swap_Nodes_in_Pairs.java) |
