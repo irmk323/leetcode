@@ -1,6 +1,7 @@
 # Leetcode(19 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/solution/)| [Link](https://github.com/irmk323/leetcode/blob/master/Java/24_Swap_Nodes_in_Pairs.java) |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java) |
 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/117_Populating_Next_Right_Pointers_in_Each_Node_II.java) |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/116_Populating_Next_Right_Pointers_in_Each_Node.java) |
