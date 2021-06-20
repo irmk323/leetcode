@@ -1,4 +1,4 @@
-# Leetcode(21 solved)
+# Leetcode(22 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/509_Fibonacci_Number.java) |
