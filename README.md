@@ -1,6 +1,7 @@
 # Leetcode(22 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/70_Climbing_Stairs.java) |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/509_Fibonacci_Number.java) |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/700_Search_in_a_Binary_Search_Tree.java)|
 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/solution/)| [Link](https://github.com/irmk323/leetcode/blob/master/Java/24_Swap_Nodes_in_Pairs.java) |
