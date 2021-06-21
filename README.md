@@ -1,4 +1,4 @@
-# Leetcode(22 solved)
+# Leetcode(23 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/70_Climbing_Stairs.java) |
