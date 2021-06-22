@@ -6,12 +6,12 @@ class Solution {
         int twoStep = 2;
         for(int i = 3; i <= n; i++){
             int tmp = twoStep;
-            twoStep = oneStep + twoStep;
+            twoStep = twoStep + oneStep;
             oneStep = tmp;
         }
         return twoStep;
-        
-        
+    }
+        //this is also accepted but not optimized
         // int[] dp = new int[n + 1];
         // dp[1] = 1;
         // dp[2] = 2;
