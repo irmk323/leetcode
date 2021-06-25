@@ -1,7 +1,7 @@
-# Leetcode(23 solved)
+# Leetcode(24 solved)
 | Problem | Solution |
 | ------------- | ------------- |
-| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Link]() |
+| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/50_Pow.java) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/70_Climbing_Stairs.java) |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/509_Fibonacci_Number.java) |
 | [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/700_Search_in_a_Binary_Search_Tree.java)|
