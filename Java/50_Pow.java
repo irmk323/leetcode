@@ -1,14 +1,14 @@
-//Runtime error
 class Solution {
-    private double pow_until(double x, int n){
-        if(n == 0) return 1.0;
-        if(n == 1) return x;
-        if( n < 0 ) return pow_until(1/x, -n);
-        double result = pow_until(x*x, n/2);
-        if(n%2 == 1) result *= x;
+    // long is to handle the edge case like -2^31 <= n <= 2^31-1
+    private double fast_pow(double x, long n){
+        if(n == 0) return 1;
+        if(n == x) return x;
+        if( n < 0 ) return fast_pow(1/x, -n);
+        double result = fast_pow(x*x, n/2);
+        if(n % 2 == 1) result *= x;
         return result;
     }
     public double myPow(double x, int n) {
-        return  pow_until(x, n);
+        return fast_pow(x, n);
     }
 }
