@@ -1,4 +1,4 @@
-# Leetcode(24 solved)
+# Leetcode(25 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/21_Merge_Two_Sorted_Lists.java) |
