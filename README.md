@@ -1,6 +1,7 @@
 # Leetcode(24 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/21_Merge_Two_Sorted_Lists.java) |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/50_Pow.java) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/70_Climbing_Stairs.java) |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/509_Fibonacci_Number.java) |
