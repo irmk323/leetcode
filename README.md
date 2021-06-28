@@ -1,4 +1,4 @@
-# Leetcode(25 solved)
+# Leetcode(26 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/779_K-th_Symbol_in_Grammar.java) |
