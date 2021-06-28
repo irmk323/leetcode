@@ -1,6 +1,7 @@
 # Leetcode(25 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/779_K-th_Symbol_in_Grammar.java) |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/21_Merge_Two_Sorted_Lists.java) |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/50_Pow.java) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/70_Climbing_Stairs.java) |
