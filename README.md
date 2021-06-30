@@ -1,6 +1,7 @@
-# Leetcode(27 solved)
+# Leetcode(28 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/912_Sort_an_Array.java) |
 | [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/95_Unique_Binary_Search_Trees_II.java) |
 | [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/779_K-th_Symbol_in_Grammar.java) |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/21_Merge_Two_Sorted_Lists.java) |
