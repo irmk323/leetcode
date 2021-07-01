@@ -1,6 +1,7 @@
 # Leetcode(29 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/240_Search_a_2D_Matrix_II.java) |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/98_Validate_Binary_Search_Tree.java) |
 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/912_Sort_an_Array.java) |
 | [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/95_Unique_Binary_Search_Trees_II.java) |
