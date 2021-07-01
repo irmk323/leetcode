@@ -1,4 +1,4 @@
-# Leetcode(29 solved)
+# Leetcode(30 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/240_Search_a_2D_Matrix_II.java) |
