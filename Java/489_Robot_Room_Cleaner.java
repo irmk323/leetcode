@@ -45,7 +45,6 @@ class Solution {
             dir+= 90;
             r.turnRight();
             dir = dir%360;
-            
         }
     }
 }
