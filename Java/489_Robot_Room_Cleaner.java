@@ -17,34 +17,39 @@
  */
 
 class Solution {
-    public void cleanRoom(Robot robot) {
-        dfs(robot, 0,0,0, new HashSet<String>());  
-    }
-    private void dfs(Robot r, int x, int y, int dir, Set<String> c){
-        String p = x + "-" + y;
-        if(c.contains(p)) return ;
-        r.clean();
-        c.add(p);
+    // up, right, down, left
+    int[][] directions = {{-1, 0}, {0, 1}, {1,0}, {0, -1}};
+    Set<Pair<Integer, Integer>> visited = new HashSet();
+    Robot robot;
+    
+    // to move back same position and same direction 
+    public void goBack(){
+        robot.turnRight();
+        robot.turnRight();
+        robot.move();
+        robot.turnRight();
+        robot.turnRight();
         
-        for(int n = 0; n < 4; n++){
-            if(r.move()){
-                int nextX = x, nextY = y;
-                switch(dir){
-                    case 0: nextY -=1; break;
-                    case 90: nextX +=1; break;
-                    case 180: nextY++; break;
-                    case 270: nextX--; break;
-                }
-                dfs(r, nextX, nextY, dir, c);
-                r.turnLeft();
-                r.turnLeft();
-                r.move();
-                r.turnRight();
-                r.turnRight();
+    }
+    public void backTrack(int row, int col, int d){
+        visited.add(new Pair(row, col));
+        robot.clean();
+        
+        for(int i = 0; i < 4; ++i){
+            // to make newD value to 0,1,2,3
+            int newD = (d + i) % 4;
+            int newRow = row + directions[newD][0];
+            int newCol = col + directions[newD][1];
+            //Check if already visited and could move forward
+            if(!visited.contains(new Pair(newRow, newCol)) && robot.move()){
+                backTrack(newRow, newCol, newD);
+                goBack();
             }
-            dir+= 90;
-            r.turnRight();
-            dir = dir%360;
-        }
+            robot.turnRight();
+        } 
+    }
+    public void cleanRoom(Robot robot) {
+        this.robot = robot;
+        backTrack(0,0,0);
     }
 }
