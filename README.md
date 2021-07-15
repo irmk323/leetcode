@@ -1,6 +1,7 @@
 # Leetcode(33 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [77. Combinations](https://leetcode.com/problems/combinations/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/77_Combinations.java) |
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/37_Sudoku_Solver.java) |
 | [489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/489_Robot_Room_Cleaner.java) |
 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/52_N-Queens_II.java) |
