@@ -1,4 +1,4 @@
-# Leetcode(34 solved)
+# Leetcode(35 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/100_Same_Tree.java) |
