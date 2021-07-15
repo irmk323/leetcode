@@ -1,4 +1,4 @@
-# Leetcode(33 solved)
+# Leetcode(34 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [77. Combinations](https://leetcode.com/problems/combinations/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/77_Combinations.java) |
