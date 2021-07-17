@@ -1,6 +1,7 @@
-# Leetcode(35 solved)
+# Leetcode(36 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [22. Generate Parentheses](https://leetcode.com/explore/learn/card/recursion-ii/503/recursion-to-iteration/2772/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/22_Generate_Parentheses.java) |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/100_Same_Tree.java) |
 | [77. Combinations](https://leetcode.com/problems/combinations/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/77_Combinations.java) |
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/37_Sudoku_Solver.java) |
