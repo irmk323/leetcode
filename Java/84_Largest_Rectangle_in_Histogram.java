@@ -6,11 +6,14 @@ public static int largestRectangleArea(int[] height) {
     // idx of the first bar the left that is lower than current
     // その現在のIndexよりも最短の一番小さい左のインデックス
     int[] lessFromLeft = new int[height.length];
+    
     // idx of the first bar the right that is lower than current
     // 今のindexよりも小さい右の最短のバーのインデックス
     int[] lessFromRight = new int[height.length]; 
+    
     //圏外のバーのindex、右に今のバーよりも小さいバーのインデックスがない場合
     lessFromRight[height.length - 1] = height.length;
+    
     //圏外のバーのindex、左にに今のバーよりも小さいバーのインデックスがない場合
     lessFromLeft[0] = -1;
     
