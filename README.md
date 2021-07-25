@@ -1,4 +1,4 @@
-# Leetcode(37 solved)
+# Leetcode(38 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [46. Permutations](https://leetcode.com/problems/permutations/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/46_Permutations.java) |
