@@ -1,6 +1,7 @@
 # Leetcode(37 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [46. Permutations](https://leetcode.com/problems/permutations/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/46_Permutations.java) |
 | [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)| [Link](https://github.com/irmk323/leetcode/blob/master/Java/426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.java) |
 | [22. Generate Parentheses](https://leetcode.com/explore/learn/card/recursion-ii/503/recursion-to-iteration/2772/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/22_Generate_Parentheses.java) |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/100_Same_Tree.java) |
