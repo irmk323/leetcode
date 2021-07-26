@@ -1,5 +1,6 @@
 class Solution {
 public List<String> letterCombinations(String digits) {
+	//要素の取得・削除が頻繁にあり得るためLinkedList
 		LinkedList<String> ans = new LinkedList<String>();
 		if(digits.isEmpty()) return ans;
 		String[] mapping = new String[] {"0", "1", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
