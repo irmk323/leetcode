@@ -30,10 +30,6 @@ class Solution {
             for (int[] b : cps.get(x)) {
                 if (x == b[0]) {
                     pq.add(b);
-                    System.out.println("aaa");
-                    for(int i = 0; i < pq.size(); i++){
-                    System.out.println(pq.peek()[i]);                       
-                    }
                 } else {
                     pq.remove(b);
                 }
