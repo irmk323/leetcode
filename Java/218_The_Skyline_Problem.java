@@ -28,6 +28,7 @@ class Solution {
         List<List<Integer>> ret = new ArrayList<>();
         for (Integer x : cps.keySet()) {
             for (int[] b : cps.get(x)) {
+                // stat pointかそうでないか
                 if (x == b[0]) {
                     pq.add(b);
                 } else {
@@ -36,6 +37,7 @@ class Solution {
             }
             if (pq.isEmpty()) {
                 ret.add(Arrays.asList(x, 0));
+                // Maxの値が変わったかどうか
             } else if (ret.isEmpty() || pq.peek()[2] != ret.get(ret.size() - 1).get(1)) {
                 ret.add(Arrays.asList(x, pq.peek()[2]));
             }
