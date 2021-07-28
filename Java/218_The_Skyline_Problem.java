@@ -37,7 +37,7 @@ class Solution {
             }
             if (pq.isEmpty()) {
                 ret.add(Arrays.asList(x, 0));
-                // Maxの値が変わったかどうか
+                // Maxの値が変わったかどうか、最大のものを「最小」として取り出す
             } else if (ret.isEmpty() || pq.peek()[2] != ret.get(ret.size() - 1).get(1)) {
                 ret.add(Arrays.asList(x, pq.peek()[2]));
             }
