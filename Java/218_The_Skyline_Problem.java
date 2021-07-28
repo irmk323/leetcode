@@ -11,12 +11,17 @@ class Solution {
         
         /*
         PriorityQueue<int[]> pq = new PriorityQueue<>((b1, b2) -> Integer.compare(b2[2], b1[2]));
+        について
         Integer.compare    
                  パラメータ:
         x - 比較する最初のint
         y - 比較する2番目のint
         戻り値:
         x == yの場合は値0、x < yの場合は0より小さい値、x> yの場合は0より大きい値
+        
+        今回の場合、配列のインデックス2の要素（この問題でいうところのビルの高さ）が最大のものを「最小」とみなし、peekで取り出す。
+        この「最大のものを『最小』とみなす」仕様を伝えるのが、PriorityQueueのコンストラクタでComparatorを渡すこの部分。
+        
         */
         
         PriorityQueue<int[]> pq = new PriorityQueue<>((b1, b2) -> Integer.compare(b2[2], b1[2]));
