@@ -1,6 +1,7 @@
-# Leetcode(39 solved)
+# Leetcode(40 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/485_Max_Consecutive_Ones.java) |
 | [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/218_The_Skyline_Problem.java) |
 | [46. Permutations](https://leetcode.com/problems/permutations/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/46_Permutations.java) |
 | [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)| [Link](https://github.com/irmk323/leetcode/blob/master/Java/426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.java) |
