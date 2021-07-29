@@ -1,4 +1,4 @@
-# Leetcode(41 solved)
+# Leetcode(42 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/977_Squares_of_a_Sorted_Array.java) |
