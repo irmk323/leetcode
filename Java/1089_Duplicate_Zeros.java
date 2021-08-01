@@ -1,5 +1,5 @@
 
-// 1 ms
+// 1 ms two pointers
 class Solution {
 public void duplicateZeros(int[] arr) {
         int countZero = 0;
