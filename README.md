@@ -1,4 +1,4 @@
-# Leetcode(42 solved)
+# Leetcode(43 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1089_Duplicate_Zeros.java) |
