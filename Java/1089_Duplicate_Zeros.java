@@ -3,6 +3,7 @@
 class Solution {
 public void duplicateZeros(int[] arr) {
         int countZero = 0;
+//         配列の中で０がいくつあるか数える
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == 0) countZero++;
         }
