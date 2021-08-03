@@ -1,6 +1,7 @@
-# Leetcode(43 solved)
+# Leetcode(44 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://github.com/irmk323/leetcode/edit/master/Java/88_Merge_Sorted_Array.java) |
 | [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1089_Duplicate_Zeros.java) |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/977_Squares_of_a_Sorted_Array.java) |
 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1295_Find_Numbers_with_Even_Number_of_Digits.java) |
