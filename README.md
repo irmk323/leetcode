@@ -1,6 +1,7 @@
-# Leetcode(44 solved)
+# Leetcode(45 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [27. Remove Element](https://leetcode.com/problems/remove-element/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/27_Remove_Element.java) |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://github.com/irmk323/leetcode/edit/master/Java/88_Merge_Sorted_Array.java) |
 | [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1089_Duplicate_Zeros.java) |
 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/977_Squares_of_a_Sorted_Array.java) |
