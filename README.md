@@ -1,4 +1,4 @@
-# Leetcode(45 solved)
+# Leetcode(46 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1346_Check_If_N_and_Its_Double_Exist.java) |
