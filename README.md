@@ -1,6 +1,7 @@
-# Leetcode(46 solved)
+# Leetcode(47 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/941_Valid_Mountain_Array.java) |
 | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1346_Check_If_N_and_Its_Double_Exist.java) |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/27_Remove_Element.java) |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://github.com/irmk323/leetcode/edit/master/Java/88_Merge_Sorted_Array.java) |
