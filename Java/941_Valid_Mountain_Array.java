@@ -1,7 +1,8 @@
+// Time O(n)
+// Space O(1)
 class Solution {
     public boolean validMountainArray(int[] A) {
-        int N = A.length;
-        int i = 0;
+        int N = A.length,  i = 0;
 
         // walk up
         while (i+1 < N && A[i] < A[i+1])
