@@ -4,8 +4,9 @@
 
 class Solution {
 public void moveZeroes(int[] nums) {
-    if (nums == null || nums.length == 0) return;        
-
+    if (nums == null || nums.length == 0) return;
+    
+    // use pointer and in-place 
     int insertPos = 0;
     for (int num: nums) {
         if (num != 0) nums[insertPos++] = num;
@@ -18,7 +19,7 @@ public void moveZeroes(int[] nums) {
 }
 
 
-///=============================
+//===========other solution==================
 
 class Solution {
     public void moveZeroes(int[] nums) {
