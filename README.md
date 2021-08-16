@@ -1,6 +1,7 @@
-# Leetcode(48 solved)
+# Leetcode(49 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/905_Sort_Array_By_Parity.java) |
 | [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1299_Replace_Elements_with_Greatest_Element_on_Right_Side.java)|
 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/941_Valid_Mountain_Array.java) |
 | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1346_Check_If_N_and_Its_Double_Exist.java) |
