@@ -5,8 +5,7 @@ class Solution {
         
         for (int height : heights) {
             heightToFreq[height]++;
-        }
-        
+        }        
         int result = 0;
         int curHeight = 0;
         
