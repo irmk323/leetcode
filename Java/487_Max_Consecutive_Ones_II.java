@@ -1,3 +1,4 @@
+//Time: O(n) Space: O(1)
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
         int max = 0, zero = 0, k = 1; // flip at most k zero
