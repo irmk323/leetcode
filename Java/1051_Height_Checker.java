@@ -1,25 +1,21 @@
-// On the way
+//O(n) 
 class Solution {
     public int heightChecker(int[] heights) {
-        int[] heightToFreq = new int[101];
+        int[] freq = new int[101];
         
-        for (int height : heights) {
-            heightToFreq[height]++;
-        }        
-        int result = 0;
-        int curHeight = 0;
-        
-        for (int i = 0; i < heights.length; i++) {
-            while (heightToFreq[curHeight] == 0) {
+        for(int height: heights){
+            freq[height]++;
+        }
+        int result = 0, curHeight = 0;
+        for(int i = 0; i< heights.length; i++){
+            while(freq[curHeight] == 0){
                 curHeight++;
             }
-            
-            if (curHeight != heights[i]) {
+            if(curHeight != heights[i]){
                 result++;
             }
-            heightToFreq[curHeight]--;
+            freq[curHeight]--;
         }
-        
         return result;
     }
 }
