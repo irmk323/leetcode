@@ -1,6 +1,7 @@
 # Leetcode(50 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/487_Max_Consecutive_Ones_II.java) |
 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1051_Height_Checker.java) |
 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/905_Sort_Array_By_Parity.java) |
 | [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1299_Replace_Elements_with_Greatest_Element_on_Right_Side.java)|
