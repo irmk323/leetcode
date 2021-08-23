@@ -1,4 +1,4 @@
-# Leetcode(5 solved)
+# Leetcode(51 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/487_Max_Consecutive_Ones_II.java) |
