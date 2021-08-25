@@ -1,6 +1,7 @@
-# Leetcode(51 solved)
+# Leetcode(52 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/414_Third_Maximum_Number.java) |
 | [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/487_Max_Consecutive_Ones_II.java) |
 | [1051. Height Checker](https://leetcode.com/problems/height-checker/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1051_Height_Checker.java) |
 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/905_Sort_Array_By_Parity.java) |
