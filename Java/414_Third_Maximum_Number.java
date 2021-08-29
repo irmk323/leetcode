@@ -1,5 +1,4 @@
-// Time O(n)
-//Space O(1)
+// Time O(n) : Space O(1)
 
 class Solution {
 public int thirdMax(int[] nums) { 
@@ -14,7 +13,7 @@ public int thirdMax(int[] nums) {
     if (maximums.size() == 3) {
         return Collections.min(maximums);
     }
-//   if original is array size is less than 3
+  // if original is array size is less than 3
     return Collections.max(maximums);
-}
+    }
 }
