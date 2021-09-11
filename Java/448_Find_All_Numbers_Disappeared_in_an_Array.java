@@ -1,3 +1,7 @@
+=========================================================
+// Time:O(N)
+// Space:O(N)
+
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         
@@ -18,3 +22,4 @@ class Solution {
         return result;
     }
 }
+=============================================================
