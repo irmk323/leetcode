@@ -1,6 +1,7 @@
-# Leetcode(53 solved)
+# Leetcode(55 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/141_Linked_List_Cycle.java) |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/707_Design_Linked_List.java) |
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solution/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/448_Find_All_Numbers_Disappeared_in_an_Array.java) |
 | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/414_Third_Maximum_Number.java) |
