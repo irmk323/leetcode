@@ -1,6 +1,7 @@
 # Leetcode(53 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/707_Design_Linked_List.java) |
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solution/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/448_Find_All_Numbers_Disappeared_in_an_Array.java) |
 | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/414_Third_Maximum_Number.java) |
 | [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/487_Max_Consecutive_Ones_II.java) |
