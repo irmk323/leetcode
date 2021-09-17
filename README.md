@@ -1,4 +1,4 @@
-# Leetcode(55 solved)
+# Leetcode(56 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/142_Linked_List_Cycle_II.java) |
