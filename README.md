@@ -1,6 +1,7 @@
-# Leetcode(56 solved)
+# Leetcode(57 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/160_Intersection_of_Two_Linked_Lists.java) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/142_Linked_List_Cycle_II.java) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/141_Linked_List_Cycle.java) |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/707_Design_Linked_List.java) |
