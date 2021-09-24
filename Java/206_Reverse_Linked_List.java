@@ -9,7 +9,9 @@
  * }
  */
 
-// iterative
+
+// iterative 
+// Time O(n) Space O(1)
 class Solution {
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
@@ -25,6 +27,7 @@ class Solution {
 }
 
 // retcursive
+// Time O(n) Space O(N)
 class Solution {
     public ListNode reverseList(ListNode head) {
         return reverse(head, null);
