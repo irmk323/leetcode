@@ -1,4 +1,4 @@
-# Leetcode(58 solved)
+# Leetcode(59 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/206_Reverse_Linked_List.java) |
