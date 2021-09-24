@@ -1,6 +1,7 @@
 # Leetcode(58 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/206_Reverse_Linked_List.java) |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/19_Remove_Nth_Node_From_End_of_List.java) |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/160_Intersection_of_Two_Linked_Lists.java) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/142_Linked_List_Cycle_II.java) |
