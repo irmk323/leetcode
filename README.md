@@ -1,7 +1,7 @@
 # Leetcode(59 solved)
 | Problem | Solution |
 | ------------- | ------------- |
-| [https://leetcode.com/problems/remove-linked-list-elements/](https://leetcode.com/problems/remove-linked-list-elements/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/203_Remove_Linked_List_Elements.java) |
+| [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/203_Remove_Linked_List_Elements.java) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/206_Reverse_Linked_List.java) |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/19_Remove_Nth_Node_From_End_of_List.java) |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/160_Intersection_of_Two_Linked_Lists.java) |
