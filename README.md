@@ -1,6 +1,7 @@
 # Leetcode(60 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/328_Odd_Even_Linked_List.java) |
 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/203_Remove_Linked_List_Elements.java) |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/206_Reverse_Linked_List.java) |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/19_Remove_Nth_Node_From_End_of_List.java) |
