@@ -1,4 +1,4 @@
-# Leetcode(59 solved)
+# Leetcode(60 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/203_Remove_Linked_List_Elements.java) |
