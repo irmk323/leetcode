@@ -1,4 +1,4 @@
-# Leetcode(60 solved)
+# Leetcode(61 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/328_Odd_Even_Linked_List.java) |
