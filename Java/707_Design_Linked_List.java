@@ -1,4 +1,6 @@
 //=============== Double Linked List====================
+// Time O(1) for addHead, O(N) for addTail O(K) for other ones.
+// Space O(1)
 public class ListNode{
     int val;
     ListNode next;
