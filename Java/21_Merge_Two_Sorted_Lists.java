@@ -8,6 +8,9 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+// Time O(n+m) Space O(1)
+// Recursive is skipped because of space is O(n+m)
 class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode prev = new ListNode(-1);
