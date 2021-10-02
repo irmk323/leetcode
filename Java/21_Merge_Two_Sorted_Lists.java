@@ -16,6 +16,7 @@ class Solution {
         ListNode prev = new ListNode(-1);
         ListNode curr = prev;
         while(l1 != null && l2 != null){
+            // <= でも　< でもどっちでもいい
             if(l1.val < l2.val){
                 curr.next = l1;
                 l1= l1.next;
