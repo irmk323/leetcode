@@ -16,7 +16,8 @@ class Node {
     }
 };
 */
-// Time O(N) space(1)
+// Time O(N) Space(1)
+
 class Solution {
   public Node insert(Node head, int insertVal) {
     if (head == null) {
