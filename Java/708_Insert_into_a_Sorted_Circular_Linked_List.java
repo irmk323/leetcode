@@ -19,38 +19,40 @@ class Node {
 // Time O(N) Space(1)
 
 class Solution {
-  public Node insert(Node head, int insertVal) {
-    if (head == null) {
-      Node newNode = new Node(insertVal, null);
-      newNode.next = newNode;
-      return newNode;
+    public Node insert(Node start, int x) {
+        
+        if (start == null) {
+            Node node = new Node(x, null);
+            node.next = node;
+            return node;
+        }
+        
+        Node cur = start;
+        while (true) {
+            if (cur.val < cur.next.val) { 
+                if (cur.val <= x && x <= cur.next.val) { 
+                    insertAfter(cur, x);
+                    break;
+                }
+           
+            } else if (cur.val > cur.next.val) { 
+                if (cur.val <= x || x <= cur.next.val) { 
+                    insertAfter(cur, x);
+                    break;
+                }
+           
+            } else {
+                if (cur.next == start) {  
+                    insertAfter(cur, x);
+                    break;
+                }
+            }            
+            cur = cur.next;
+        }
+        return start;
     }
 
-    Node prev = head;
-    Node curr = head.next;
-    boolean toInsert = false;
-
-    do {
-      if (prev.val <= insertVal && insertVal <= curr.val) {
-        // Case 1).
-        toInsert = true;
-      } else if (prev.val > curr.val) {
-        // Case 2).
-        if (insertVal >= prev.val || insertVal <= curr.val)
-          toInsert = true;
-      }
-
-      if (toInsert) {
-        prev.next = new Node(insertVal, curr);
-        return head;
-      }
-
-      prev = curr;
-      curr = curr.next;
-    } while (prev != head);
-
-    // Case 3).
-    prev.next = new Node(insertVal, curr);
-    return head;
-  }
+    private void insertAfter(Node cur, int x) {
+        cur.next = new Node(x, cur.next);
+    }
 }
