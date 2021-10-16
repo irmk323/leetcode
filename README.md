@@ -1,6 +1,7 @@
-# Leetcode(66 solved)
+# Leetcode(67 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/61_Rotate_List.java) |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/138_Copy_List_with_Random_Pointer.java) |
 | [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/708_Insert_into_a_Sorted_Circular_Linked_List.java) |
 | [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/430_Flatten_a_Multilevel_Doubly_Linked_List.java) |
