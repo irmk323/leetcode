@@ -1,3 +1,5 @@
+// Time O(1) Space O(N)
+
 class MyCircularQueue {
         final int[] a;
 //      ↓front = 0, of course
