@@ -1,6 +1,7 @@
 class MyCircularQueue {
         final int[] a;
-        int front = 0, rear = -1, len = 0;
+//      ↓front = 0, of course
+        int front, rear = -1, len = 0;
 
         public MyCircularQueue(int k) { a = new int[k];}
 
