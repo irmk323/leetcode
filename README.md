@@ -1,6 +1,7 @@
 # Leetcode(68 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/solution/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/346_Moving_Average_from_Data_Stream.java) |
 | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/622_Design_Circular_Queue.java) |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/61_Rotate_List.java) |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/138_Copy_List_with_Random_Pointer.java) |
