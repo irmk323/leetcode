@@ -1,6 +1,7 @@
 # Leetcode(67 solved)
 | Problem | Solution |
 | ------------- | ------------- |
+| [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/622_Design_Circular_Queue.java) |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/61_Rotate_List.java) |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/138_Copy_List_with_Random_Pointer.java) |
 | [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/708_Insert_into_a_Sorted_Circular_Linked_List.java) |
