@@ -1,4 +1,4 @@
-# Leetcode(67 solved)
+# Leetcode(68 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/622_Design_Circular_Queue.java) |
