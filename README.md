@@ -1,4 +1,4 @@
-# Leetcode(68 solved)
+# Leetcode(69 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/solution/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/346_Moving_Average_from_Data_Stream.java) |
