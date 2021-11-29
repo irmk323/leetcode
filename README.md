@@ -1,4 +1,4 @@
-# Leetcode(69 solved)
+# Leetcode(70 solved)
 | Problem | Solution |
 | ------------- | ------------- |
 | [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/705_Design_HashSet.java) |
