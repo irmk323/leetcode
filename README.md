@@ -1,6 +1,6 @@
 # Leetcode(71 solved)
 | Problem | Solution |
-| ------------- | ------------- |h
+| ------------- | ------------- |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/69_Sqrt_x.java) |
 | [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/705_Design_HashSet.java) |
 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/solution/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/346_Moving_Average_from_Data_Stream.java) |
