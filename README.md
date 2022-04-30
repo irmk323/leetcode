@@ -1,5 +1,5 @@
 # Leetcode(73 solved)
-| Problem | Solution(Java) |
+| Problem | Solution. (Java) |
 | ------------- | ------------- |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/200_Number_of_Islands.java) |.  |
 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1929_Concatenation_of_Array.java) |
