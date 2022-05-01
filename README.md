@@ -32,7 +32,7 @@
 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/27_Remove_Element.java) |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://github.com/irmk323/leetcode/edit/master/Java/88_Merge_Sorted_Array.java) |
 | [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1089_Duplicate_Zeros.java) |
-| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/977_Squares_of_a_Sorted_Array.java) |[Link](s)
+| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/977_Squares_of_a_Sorted_Array.java) |[Link](https://github.com/irmk323/leetcode/blob/master/Python/977_Squares_of_a_Sorted_Array.py)
 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1295_Find_Numbers_with_Even_Number_of_Digits.java) |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/485_Max_Consecutive_Ones.java) |
 | [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/218_The_Skyline_Problem.java) |
