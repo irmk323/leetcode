@@ -15,3 +15,6 @@ class Solution:
                 left += 1
             result[i] = square * square
         return result
+    
+#     Time O(N)
+#     Space O(N)
