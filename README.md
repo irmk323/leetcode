@@ -1,4 +1,4 @@
-# Leetcode(73 solved)
+# Leetcode(74 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/559_Maximum_Depth_of_N-ary_Tree.py) |
