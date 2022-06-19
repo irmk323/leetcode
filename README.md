@@ -1,6 +1,6 @@
 # Leetcode(76 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
-| ------------- | ------------- | ------------- |https://github.com/irmk323/leetcode/blob/master/Python/20_Valid_Parentheses.py
+| ------------- | ------------- | ------------- |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/20_Valid_Parentheses.py) |
 | [2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2283_Check_if_Number_Has_Equal_Digit_Count_and_Digit_Value.py) |
 | [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/559_Maximum_Depth_of_N-ary_Tree.py) |
