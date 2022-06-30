@@ -1,4 +1,4 @@
-# Leetcode(77 solved)
+# Leetcode(79 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/56_Merge_Intervals.py) |
