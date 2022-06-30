@@ -1,6 +1,7 @@
 # Leetcode(77 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/560_Subarray_Sum_Equals_K.java) | ------------- |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/17_Letter_Combinations_of_a_Phone_Number.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/17_Letter_Combinations_of_a_Phone_Number.py) |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/20_Valid_Parentheses.py) |
 | [2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2283_Check_if_Number_Has_Equal_Digit_Count_and_Digit_Value.py) |
