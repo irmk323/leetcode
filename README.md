@@ -1,7 +1,8 @@
-# Leetcode(80 solved)
+# Leetcode(81 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
-| [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | ------------- | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1305_All_Elements_in_Two_Binary_Search_Trees.py) |
+| [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | ------------- | [Link](https://github.com/irmk323/leetcode/blob/master/Python/763_Partition_Labels.py) |
+| [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1305_All_Elements_in_Two_Binary_Search_Trees.py) |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/56_Merge_Intervals.py) |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/560_Subarray_Sum_Equals_K.java) |  |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/17_Letter_Combinations_of_a_Phone_Number.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/17_Letter_Combinations_of_a_Phone_Number.py) |
