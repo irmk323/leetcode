@@ -1,7 +1,7 @@
 # Leetcode(81 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- |
+| [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | ------------- | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1275_find-winner-on-a-tic-tac-toe-game.py) |
 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/763_Partition_Labels.py) |
 | [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1305_All_Elements_in_Two_Binary_Search_Trees.py) |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/56_Merge_Intervals.py) |
