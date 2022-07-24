@@ -1,6 +1,7 @@
-# Leetcode(83 solved)
+# Leetcode(84 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2096_step-by-step-directions-from-a-binary-tree-node-to-another.py) |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/724_find-pivot-index.py) |
 | [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1275_find-winner-on-a-tic-tac-toe-game.py) |
 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/763_Partition_Labels.py) |
