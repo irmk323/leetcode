@@ -1,4 +1,4 @@
-# Leetcode(84 solved)
+# Leetcode(85 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [2034. Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2034_stock-price-fluctuation.py) |
