@@ -26,7 +26,7 @@
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/234_Palindrome_Linked_List.java) |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/328_Odd_Even_Linked_List.java) |
 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/203_Remove_Linked_List_Elements.java) |
-| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/206_Reverse_Linked_List.java) |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/206_Reverse_Linked_List.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/206_reverse-linked-list.py) |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/19_Remove_Nth_Node_From_End_of_List.java) |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/160_Intersection_of_Two_Linked_Lists.java) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/142_Linked_List_Cycle_II.java) |
@@ -60,7 +60,7 @@
 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/912_Sort_an_Array.java) |
 | [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/95_Unique_Binary_Search_Trees_II.java) |
 | [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/779_K-th_Symbol_in_Grammar.java) |
-| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/21_Merge_Two_Sorted_Lists.java) |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/21_Merge_Two_Sorted_Lists.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/21_merge-two-sorted-lists.py) |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/50_Pow.java) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/70_Climbing_Stairs.java) |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/509_Fibonacci_Number.java) |
