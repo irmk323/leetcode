@@ -30,7 +30,7 @@
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/206_Reverse_Linked_List.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/206_reverse-linked-list.py) |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/19_Remove_Nth_Node_From_End_of_List.java) |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/160_Intersection_of_Two_Linked_Lists.java) |
-| [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/142_Linked_List_Cycle_II.java) |
+| [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/142_Linked_List_Cycle_II.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/142_linked-list-cycle-ii.py) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/141_Linked_List_Cycle.java) |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/707_Design_Linked_List.java) |
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solution/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/448_Find_All_Numbers_Disappeared_in_an_Array.java) |
