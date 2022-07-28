@@ -1,6 +1,7 @@
-# Leetcode(86 solved)
+# Leetcode(87 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/589_n-ary-tree-preorder-traversal.py) |
 | [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | ------------- | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2115_find-all-possible-recipes-from-given-supplies.py) |
 | [2034. Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2034_stock-price-fluctuation.py) |
 | [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2096_step-by-step-directions-from-a-binary-tree-node-to-another.py) |
