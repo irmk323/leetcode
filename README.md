@@ -1,8 +1,9 @@
-# Leetcode(87 solved)
+# Leetcode(88 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/704_binary-search.py) |
 | [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/589_n-ary-tree-preorder-traversal.py) |
-| [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | ------------- | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2115_find-all-possible-recipes-from-given-supplies.py) |
+| [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2115_find-all-possible-recipes-from-given-supplies.py) |
 | [2034. Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2034_stock-price-fluctuation.py) |
 | [2096. Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2096_step-by-step-directions-from-a-binary-tree-node-to-another.py) |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/724_find-pivot-index.py) |
