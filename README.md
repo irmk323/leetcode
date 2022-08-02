@@ -1,6 +1,7 @@
-# Leetcode(88 solved)
+# Leetcode(89 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |  | [Link](ttps://github.com/irmk323/leetcode/blob/master/Python/98_validate-binary-search-tree.py) |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/704_binary-search.py) |
 | [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/589_n-ary-tree-preorder-traversal.py) |
 | [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2115_find-all-possible-recipes-from-given-supplies.py) |
