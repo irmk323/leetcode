@@ -1,6 +1,7 @@
 # Leetcode(90 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  | [Link](ttps://github.com/irmk323/leetcode/blob/master/Python/347_top-k-frequent-elements.py) |
 | [2128. Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2128_remove-all-ones-with-row-and-column-flips.py) |
 | [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/670_maximum-swap.py) |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/98_validate-binary-search-tree.py) |
