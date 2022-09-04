@@ -1,6 +1,7 @@
-# Leetcode(90 solved)
+# Leetcode(94 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/228_summary-ranges.py) |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/54_spiral-matrix.py) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/347_top-k-frequent-elements.py) |
 | [2128. Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2128_remove-all-ones-with-row-and-column-flips.py) |
