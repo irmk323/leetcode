@@ -1,6 +1,7 @@
-# Leetcode(94 solved)
+# Leetcode(95 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1424_diagonal-traverse-ii.py) |
 | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/228_summary-ranges.py) |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/54_spiral-matrix.py) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/347_top-k-frequent-elements.py) |
