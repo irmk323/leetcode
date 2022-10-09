@@ -1,6 +1,9 @@
-# Leetcode(95 solved)
+# Leetcode(98 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1762_buildings-with-an-ocean-view.py) |
+| [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1650_lowest-common-ancestor-of-a-binary-tree-iii.py) |
+| [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/314_binary-tree-vertical-order-traversal.py) |
 | [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1424_diagonal-traverse-ii.py) |
 | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/228_summary-ranges.py) |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/54_spiral-matrix.py) |
