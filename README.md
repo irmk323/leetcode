@@ -1,6 +1,9 @@
-# Leetcode(98 solved)
+# Leetcode(101 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/426_convert-binary-search-tree-to-sorted-doubly-linked-list.py) |
+| [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/339_nested-list-weight-sum.py) |
+| [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1570_dot-product-of-two-sparse-vectors.py) |
 | [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1762_buildings-with-an-ocean-view.py) |
 | [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1650_lowest-common-ancestor-of-a-binary-tree-iii.py) |
 | [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/314_binary-tree-vertical-order-traversal.py) |
