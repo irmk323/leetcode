@@ -1,6 +1,7 @@
 # Leetcode(101 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [235. Lowest Common Ancestor of a Binary Search Tree](lowest-common-ancestor-of-a-binary-search-tree) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/235_lowest-common-ancestor-of-a-binary-search-tree.py) |
 | [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/426_convert-binary-search-tree-to-sorted-doubly-linked-list.py) |
 | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/339_nested-list-weight-sum.py) |
 | [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1570_dot-product-of-two-sparse-vectors.py) |
@@ -47,7 +48,7 @@
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/19_Remove_Nth_Node_From_End_of_List.java) |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/160_Intersection_of_Two_Linked_Lists.java) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/142_Linked_List_Cycle_II.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/142_linked-list-cycle-ii.py) |
-| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/141_Linked_List_Cycle.java) |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/141_Linked_List_Cycle.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/141_linked-list-cycle.py) |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/707_Design_Linked_List.java) |
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solution/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/448_Find_All_Numbers_Disappeared_in_an_Array.java) |
 | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/414_Third_Maximum_Number.java) |
@@ -95,7 +96,7 @@
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/102_Binary_Tree_Level_Order_Traversal.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/102_binary-tree-level-order-traversal.py) |
 | [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/119_Pascals_Triangle_II.java) |
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/144_Binary_Tree_Preorder_Traversal.java) |
-| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/283_Move_Zeroes.java) |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/283_Move_Zeroes.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/283_move-zeroes.py) |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 |  [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/119_Pascals_Triangle_II.java)|
 | [1684.Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1684_count-the-number-of-consistent-strings.java)  |
