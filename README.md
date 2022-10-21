@@ -1,6 +1,7 @@
 # Leetcode(105 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [55. Jump Game](https://leetcode.com/problems/jump-game/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/55_jump-game.py) |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/39_combination-sum.py) |
 | [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2178_maximum-split-of-positive-even-integers.py) |
 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/733_flood-fill.py) |
