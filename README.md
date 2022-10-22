@@ -1,6 +1,7 @@
 # Leetcode(109 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/746_min-cost-climbing-stairs.py) |
 | [1868. Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1868_product-of-two-run-length-encoded-arrays.py) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/70_climbing-stairs.py) |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/55_jump-game.py) |
