@@ -1,6 +1,7 @@
-# Leetcode(109 solved)
+# Leetcode(112 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/33_search-in-rotated-sorted-array.py) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/36_valid-sudoku.py) |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/746_min-cost-climbing-stairs.py) |
 | [1868. Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1868_product-of-two-run-length-encoded-arrays.py) |
