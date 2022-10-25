@@ -1,6 +1,7 @@
 # Leetcode(112 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/104_maximum-depth-of-binary-tree.py) |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/33_search-in-rotated-sorted-array.py) |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/36_valid-sudoku.py) |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/746_min-cost-climbing-stairs.py) |
