@@ -1,6 +1,7 @@
 # Leetcode(112 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/572_subtree-of-another-tree.py) |
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/383_ransom-note.py) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/104_maximum-depth-of-binary-tree.py) |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/33_search-in-rotated-sorted-array.py) |
