@@ -1,15 +1,24 @@
 #!/bin/bash
+
 git_path="https://github.com/irmk323/leetcode/blob/master/Python/"
 leetcode_path="https://leetcode.com/problems/"
-echo $git_path
+
+# input should be like this, that is the title of leetcode=> 994. Rotting Oranges 
 echo Please input the title of problem: 
-read title 
-#結果を表示
-echo $title
+read title
 
-leetcode_link=$leetcode_path+$title
-command="gsed -i '4i  | [$title]($leetcode_link) | [Link]($git_path) |' README.md"
-echo $command
+str=$title
+array=(${str//./ })
+number=${array[0]}
+only_string=`echo $title | sed -E 's/[0-9]+. //g' | sed -E 's/ /-/g' |  tr '[:upper:]' '[:lower:]'`
+
+code_file_link="${git_path}${number}_${only_string}.py"
+leetcode_link=$leetcode_path$only_string
+
+# create empty file
+cd Python
+touch ${number}_${only_string}.py
+cd ..
+
+command="gsed -i '4i  | [$title]($leetcode_link) | [Link]($code_file_link) |' README.md"
 eval $command
-
-
