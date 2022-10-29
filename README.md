@@ -1,4 +1,4 @@
-# Leetcode(112 solved)
+# Leetcode(115 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/572_subtree-of-another-tree.py) |
