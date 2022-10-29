@@ -1,4 +1,4 @@
-# Leetcode(115 solved)
+# Leetcode(116 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1631_path-with-minimum-effort.py) |
