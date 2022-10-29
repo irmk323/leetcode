@@ -20,5 +20,5 @@ cd Python
 touch ${number}_${only_string}.py
 cd ..
 
-command="gsed -i '4i  | [$title]($leetcode_link) | [Link]($code_file_link) |' README.md"
+command="gsed -i '4i  | [$title]($leetcode_link) | | [Link]($code_file_link) |' README.md"
 eval $command
