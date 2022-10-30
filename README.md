@@ -1,6 +1,7 @@
-# Leetcode(116 solved)
+# Leetcode(117 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/994_rotting-oranges.py) |
 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1631_path-with-minimum-effort.py) |
 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/572_subtree-of-another-tree.py) |
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/383_ransom-note.py) |
