@@ -52,7 +52,7 @@
 | [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/705_Design_HashSet.java) |
 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/solution/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/346_Moving_Average_from_Data_Stream.java) |
 | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/622_Design_Circular_Queue.java) |
-| [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/61_Rotate_List.java) |
+| [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/61_Rotate_List.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/61_rotate-list.py) |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/138_Copy_List_with_Random_Pointer.java) |
 | [708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/708_Insert_into_a_Sorted_Circular_Linked_List.java) |
 | [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/430_Flatten_a_Multilevel_Doubly_Linked_List.java) |
