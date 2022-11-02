@@ -1,6 +1,7 @@
-# Leetcode(118 solved)
+# Leetcode(119 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [338. Counting Bits](https://leetcode.com/problems/counting-bits) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/338_counting-bits.py) |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/28_find-the-index-of-the-first-occurrence-in-a-string.py) |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/994_rotting-oranges.py) |
 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1631_path-with-minimum-effort.py) |
