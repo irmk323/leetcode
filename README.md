@@ -1,6 +1,7 @@
-# Leetcode(119 solved)
+# Leetcode(120 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/110_balanced-binary-tree.py) |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/338_counting-bits.py) |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/28_find-the-index-of-the-first-occurrence-in-a-string.py) |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/994_rotting-oranges.py) |
