@@ -1,6 +1,7 @@
-# Leetcode(124 solved)
+# Leetcode(125 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [77. Combinations](https://leetcode.com/problems/combinations) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/77_combinations.py) |
 | [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/665_non-decreasing-array.py) |
 | [78. Subsets](https://leetcode.com/problems/subsets) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/78_subsets.py) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/11_container-with-most-water.py) |
