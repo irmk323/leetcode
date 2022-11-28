@@ -1,6 +1,7 @@
-# Leetcode(125 solved)
+# Leetcode(126 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [51. N-Queens](https://leetcode.com/problems/n-queens) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/51_n-queens.py) |
 | [77. Combinations](https://leetcode.com/problems/combinations) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/77_combinations.py) |
 | [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/665_non-decreasing-array.py) |
 | [78. Subsets](https://leetcode.com/problems/subsets) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/78_subsets.py) |
