@@ -1,6 +1,7 @@
 # Leetcode(127 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/392_is-subsequence.py) |
 | [134. Gas Station](https://leetcode.com/problems/gas-station) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/134_gas-station.py) |
 | [51. N-Queens](https://leetcode.com/problems/n-queens) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/51_n-queens.py) |
 | [77. Combinations](https://leetcode.com/problems/combinations) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/77_combinations.py) |
