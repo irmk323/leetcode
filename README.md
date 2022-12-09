@@ -1,4 +1,4 @@
-# Leetcode(131 solved)
+# Leetcode(134 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/234_palindrome-linked-list.py) |
