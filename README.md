@@ -1,6 +1,7 @@
 # Leetcode(134 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1143_longest-common-subsequence.py) |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/234_palindrome-linked-list.py) |
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/540_single-element-in-a-sorted-array.py) |
 | [322. Coin Change](https://leetcode.com/problems/coin-change) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/322_coin-change.py) |
