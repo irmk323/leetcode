@@ -1,4 +1,4 @@
-# Leetcode(134 solved)
+# Leetcode(135 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1143_longest-common-subsequence.py) |

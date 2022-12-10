@@ -14,3 +14,5 @@ class Solution:
                 res.append(size)
                 size = 0
         return res
+
+# did it again 10/Dec/2022
