@@ -1,6 +1,7 @@
 # Leetcode(136 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/973_k-closest-points-to-origin.py) |
 | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1971_find-if-path-exists-in-graph.py) |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1143_longest-common-subsequence.py) |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/234_palindrome-linked-list.py) |
