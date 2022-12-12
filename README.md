@@ -1,4 +1,4 @@
-# Leetcode(136 solved)
+# Leetcode(137 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/973_k-closest-points-to-origin.py) |
