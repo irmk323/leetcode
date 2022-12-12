@@ -1,4 +1,4 @@
-# Leetcode(135 solved)
+# Leetcode(136 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1971_find-if-path-exists-in-graph.py) |
