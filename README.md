@@ -1,6 +1,7 @@
-# Leetcode(137 solved)
+# Leetcode(139 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/740_delete-and-earn.py) |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/279_perfect-squares.py) |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/973_k-closest-points-to-origin.py) |
 | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1971_find-if-path-exists-in-graph.py) |
