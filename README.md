@@ -1,4 +1,4 @@
-# Leetcode(140 solved)
+# Leetcode(141 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/171_excel-sheet-column-number.py) |
