@@ -1,6 +1,7 @@
 # Leetcode(140 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/171_excel-sheet-column-number.py) |
 | [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/60_permutation-sequence.py) |
 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/740_delete-and-earn.py) |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/279_perfect-squares.py) |
