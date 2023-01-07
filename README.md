@@ -1,4 +1,4 @@
-# Leetcode(141 solved)
+# Leetcode(142 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [1055. Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1055_shortest-way-to-form-string.py) |
