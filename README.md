@@ -1,4 +1,4 @@
-# Leetcode(142 solved)
+# Leetcode(141 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [1055. Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1055_shortest-way-to-form-string.py) |
@@ -85,7 +85,7 @@
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/328_Odd_Even_Linked_List.java) |
 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/203_Remove_Linked_List_Elements.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/203_remove-linked-list-elements.py) | 
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/206_Reverse_Linked_List.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/206_reverse-linked-list.py) |
-| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/19_Remove_Nth_Node_From_End_of_List.java) | [Link](ttps://github.com/irmk323/leetcode/blob/master/Python/19_remove-nth-node-from-end-of-list.py) |
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/19_Remove_Nth_Node_From_End_of_List.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/19_remove-nth-node-from-end-of-list.py) |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/160_Intersection_of_Two_Linked_Lists.java) |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/142_Linked_List_Cycle_II.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/142_linked-list-cycle-ii.py) |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/141_Linked_List_Cycle.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/141_linked-list-cycle.py) |
@@ -127,7 +127,7 @@
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java) |
 | [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/117_Populating_Next_Right_Pointers_in_Each_Node_II.java) |
 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/116_Populating_Next_Right_Pointers_in_Each_Node.java) |
-| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Link](https://github.com/irmk323/leetcode/blob/master/Java/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java) | [Link](ttps://github.com/irmk323/leetcode/blob/master/Python/105_construct-binary-tree-from-preorder-and-inorder-traversal.py) |
+| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Link](https://github.com/irmk323/leetcode/blob/master/Java/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java) |[Link](https://github.com/irmk323/leetcode/blob/master/Python/105_construct-binary-tree-from-preorder-and-inorder-traversal.py)|
 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java) |
 | [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/250_Count_Univalue_Subtrees.java) |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/101_Symmetric_Tree.java) |
@@ -141,7 +141,6 @@
 |  [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/119_Pascals_Triangle_II.java)|
 | [1684.Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1684_count-the-number-of-consistent-strings.java)  |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/)   |  [Link](https://github.com/irmk323/leetcode/blob/master/Java/189_Rotate_Array.java)  |
-| [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|  [Link](https://github.com/irmk323/leetcode/blob/master/Java/119_Pascals_Triangle_II.java)  |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)  |  [Link](https://github.com/irmk323/leetcode/blob/master/Java/151_Reverse_Words_in_a_String.java) |
 
 
