@@ -1,5 +1,8 @@
 class Solution {
     public int findKthPositive(int[] arr, int k) {
+        // case1: [3,4,5] k=2
+        // case2: [1,2,3] k=2
+        // case3: [1,2,5] k=2
         // if the kth missing is less than arr[0]
         // e.g [3,4,5] k =2
         if (k <= arr[0] - 1) {
