@@ -1,4 +1,4 @@
-# Leetcode(141 solved)
+# Leetcode(145 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/536_construct-binary-tree-from-string.java) | |
