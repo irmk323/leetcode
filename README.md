@@ -1,6 +1,7 @@
 # Leetcode(141 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/536_construct-binary-tree-from-string.java) | |
 | [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/348_design-tic-tac-toe.java) | |
 | [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/311_sparse-matrix-multiplication.java) | |
 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1539_kth-missing-positive-number.java) | |
