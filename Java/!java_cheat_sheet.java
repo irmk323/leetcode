@@ -500,3 +500,38 @@ read()
 and reads a maximum of length bytes into the array from that position. Again, the read(byte[], int offset, int length) method 
 returns an int telling how many bytes were actually read into array, remember to check this value before processing the read bytes.
 
+
+// tokenizer
+
+class Tokenizer{
+    String s;
+    int index;
+    Tokenizer(String s){
+        this.s = s;
+        this.index=0;
+    }
+
+    public List<int> pop(){
+        if( index >= s.length ){
+            return [];
+        }
+        if (s[index] == "("){
+            index++;
+            return [1];
+        }
+        if (s[index] == ")"){
+            index++;
+            return [2];
+        }
+        startIndex = index;
+        while (index < s.length && s[index] != "(" && s[index] != ")" ){
+            index++;
+        }
+        return [0, Integer.parseInt(s.substring(startIndex, index))]
+    }
+}
+// (-123)
+// 0 = num
+// 1 = "("
+// 2 = ")"
+// 3 = "-"
