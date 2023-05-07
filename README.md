@@ -28,7 +28,7 @@
 | [78. Subsets](https://leetcode.com/problems/subsets) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/78_subsets.py) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/11_container-with-most-water.py) |
 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/152_maximum-product-subarray.py) |
-| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/110_balanced-binary-tree.py) |
+| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/110_balanced-binary-tree.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/110_balanced-binary-tree.py) |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/338_counting-bits.py) |
 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/28_find-the-index-of-the-first-occurrence-in-a-string.py) |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/994_rotting-oranges.py) |
