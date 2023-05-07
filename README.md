@@ -1,6 +1,7 @@
-# Leetcode(146 solved)
+# Leetcode(147 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [278. First Bad Version](https://leetcode.com/problems/first-bad-version) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/278_first-bad-version.java) | |
 | [1. Two Sum](https://leetcode.com/problems/two-sum) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1_two-sum.java) | |
 | [536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/536_construct-binary-tree-from-string.java) | |
 | [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/348_design-tic-tac-toe.java) | |
