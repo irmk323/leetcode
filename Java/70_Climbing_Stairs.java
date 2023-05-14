@@ -11,7 +11,7 @@ class Solution {
         }
         return twoStep;
     }
-        //this is also accepted but not optimized
+        //this is also accepted but not optimized in term of space O(n), above is O(1)
         // int[] dp = new int[n + 1];
         // dp[1] = 1;
         // dp[2] = 2;
