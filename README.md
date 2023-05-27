@@ -1,6 +1,7 @@
 # Leetcode(148 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [67. Add Binary](https://leetcode.com/problems/add-binary) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/67_add-binary.java) | |
 | [169. Majority Element](https://leetcode.com/problems/majority-element) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/169_majority-element.java) | |
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/409_longest-palindrome.java) | |
 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/278_first-bad-version.java) | |
