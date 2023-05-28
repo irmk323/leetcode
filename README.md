@@ -1,4 +1,4 @@
-# Leetcode(150 solved)
+# Leetcode(151 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/57_insert-interval.java) | |
