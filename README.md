@@ -1,6 +1,7 @@
-# Leetcode(148 solved)
+# Leetcode(150 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/543_diameter-of-binary-tree.java) | |
 | [67. Add Binary](https://leetcode.com/problems/add-binary) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/67_add-binary.java) | |
 | [169. Majority Element](https://leetcode.com/problems/majority-element) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/169_majority-element.java) | |
 | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/409_longest-palindrome.java) | |
