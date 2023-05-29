@@ -1,6 +1,7 @@
-# Leetcode(151 solved)
+# Leetcode(152 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [542. 01 Matrix](https://leetcode.com/problems/matrix) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/542_matrix.java) | |
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/57_insert-interval.java) | |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/53_maximum-subarray.java) | |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/543_diameter-of-binary-tree.java) | |
