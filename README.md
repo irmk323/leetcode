@@ -1,6 +1,7 @@
 # Leetcode(152 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [15. 3Sum](https://leetcode.com/problems/3sum) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/15_3sum.java) | |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/3_longest-substring-without-repeating-characters.java) | |
 | [542. 01 Matrix](https://leetcode.com/problems/matrix) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/542_matrix.java) | |
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/57_insert-interval.java) | |
