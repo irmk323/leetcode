@@ -1,3 +1,15 @@
+
+//setに含むかどうかの話
+Set<Integer> visited = new HashSet<>();
+visited.contains(curCourse)
+
+//文字列から発生頻度をカウントするやつ　ABC = A:1 B:1 C:1
+Map<Character, Integer> charCountMap = new HashMap<>();
+        
+for (char c : input.toCharArray()) {
+    charCountMap.put(c, charCountMap.getOrDefault(c, 0) + 1);
+}
+
 // ******************** String, char, Integer conversion ***************/
 
 [String to int]:     Integer.parseInt(s);        // return int primitive

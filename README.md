@@ -1,6 +1,7 @@
 # Leetcode(152 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [207. Course Schedule](https://leetcode.com/problems/course-schedule) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/207_course-schedule.java) | |
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/76_minimum-window-substring.java) | |
 | [15. 3Sum](https://leetcode.com/problems/3sum) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/15_3sum.java) | |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/3_longest-substring-without-repeating-characters.java) | |
