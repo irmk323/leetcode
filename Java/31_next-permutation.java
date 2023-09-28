@@ -42,3 +42,5 @@ class Solution {
         nums[j] = temp;
     }
 }
+// e.g. 
+// 124781 -> 127148

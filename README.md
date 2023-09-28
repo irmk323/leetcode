@@ -1,6 +1,7 @@
-# Leetcode(160 solved)
+# Leetcode(161 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [146. LRU Cache](https://leetcode.com/problems/lru-cache) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/146_lru-cache.java) | |
 | [31. Next Permutation](https://leetcode.com/problems/next-permutation) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/31_next-permutation.java) | |
 | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-(prefix-tree)) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/208_implement-trie-(prefix-tree).java) | |
 | [207. Course Schedule](https://leetcode.com/problems/course-schedule) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/207_course-schedule.java) | |
