@@ -71,7 +71,7 @@
 | [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/314_binary-tree-vertical-order-traversal.py) |
 | [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1424_diagonal-traverse-ii.py) |
 | [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/228_summary-ranges.py) |
-| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/54_spiral-matrix.py) |
+| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/54_spiral-matrix.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/54_spiral-matrix.py) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/347_top-k-frequent-elements.py) |
 | [2128. Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2128_remove-all-ones-with-row-and-column-flips.py) |
 | [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/670_maximum-swap.py) |

@@ -44,3 +44,10 @@ class Solution {
 }
 // e.g. 
 // 124781 -> 127148
+
+        // tric is 147532
+        // 1: search pivot from right
+        // 2: find closet of pivot from the right
+        // 3: swap it
+        // 4: reverse it
+        // edge case is 9876 .. just reverse
