@@ -1,6 +1,7 @@
 # Leetcode(162 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/7_reverse-integer.java) | |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/486_predict-the-winner.java) | |
 | [146. LRU Cache](https://leetcode.com/problems/lru-cache) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/146_lru-cache.java) | |
 | [31. Next Permutation](https://leetcode.com/problems/next-permutation) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/31_next-permutation.java) | |
