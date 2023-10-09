@@ -1,6 +1,7 @@
-# Leetcode(162 solved)
+# Leetcode(165 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2439_minimize-maximum-of-array.java) | |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/215_kth-largest-element-in-an-array.java) | |
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/7_reverse-integer.java) | |
 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/486_predict-the-winner.java) | |
