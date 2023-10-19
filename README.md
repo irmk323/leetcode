@@ -1,6 +1,9 @@
-# Leetcode(165 solved)
+# Leetcode(168 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2305_fair-distribution-of-cookies.java) | |
+| [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/934_shortest-bridge.java) | |
+| [48. Rotate Image](https://leetcode.com/problems/rotate-image) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/48_rotate-image.java) | |
 | [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2439_minimize-maximum-of-array.java) | |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/215_kth-largest-element-in-an-array.java) | |
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/7_reverse-integer.java) | |
