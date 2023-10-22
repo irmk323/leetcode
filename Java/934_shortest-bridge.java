@@ -1,66 +1,59 @@
 class Solution {
-    private int[][] direction = {{1, 0}, {-1, 0}, {0, -1}, {0, 1}};
-
+    private int[][] direction = {{1,0},{-1,0},{0,1},{0,-1}};
     public int shortestBridge(int[][] grid) {
-        Queue<int[]> q = new LinkedList<>(); // record the first land
+        Queue<int[]> q = new LinkedList<>();// this is for checking adjecent layer
+        boolean foundFistIsland = false; 
         int n = grid.length;
-        boolean found = false;
-
-        for (int i = 0; i < n; i++) {
-            if (found) break;
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 1) {
-                    dfs(i, j, grid, q);
-                    found = true;
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < n ; j ++){
+                if(foundFistIsland) break;
+                if(grid[i][j] == 1){
+                    dfs(i,j,grid, q);
+                    foundFistIsland = true;
                     break;
                 }
             }
         }
-
-        return bfs(grid, q);
+        return bfs(grid , q);
     }
 
-    private boolean invalid(int r, int c, int n) {
-        return r < 0 || c < 0 || r >= n || c >= n;
+    public boolean invalid(int r, int c, int[][] grid){
+        return (r < 0 || c< 0 || r>= grid.length || c >= grid.length );
     }
 
-    private void dfs(int r, int c, int[][] grid, Queue<int[]> q) {
-        if (invalid(r, c, grid.length) || grid[r][c] != 1) {
+    public void dfs(int r, int c, int[][] grid, Queue<int[]> q){
+        // 
+        if( invalid(r, c, grid) || grid[r][c] != 1){
             return;
         }
-        grid[r][c] = -1; 
-        q.offer(new int[]{r, c});
-        for (int[] d : direction) {
-            int i = r + d[0];
-            int j = c + d[1];
-            dfs(i, j, grid, q);
+        grid[r][c] = -1; //mark it as visited
+        q.offer(new int[]{r,c}); // add it to examine 4 direcition neighbor reached to the next island.
+        for(int[] d: direction){
+            dfs(r+ d[0], c+ d[1], grid, q);
         }
     }
-
-    private int bfs(int[][] grid, Queue<int[]> q) {
+    public int bfs(int[][]grid , Queue<int[]>q){
         int level = 0;
-        boolean[][] visited = new boolean[grid.length][grid[0].length];
-
-        while (!q.isEmpty()) {
+        boolean[][] visited = new boolean[grid.length][grid.length];
+        while(!q.isEmpty()){
             int size = q.size();
-            for (int i = 0; i < size; i++) {
+            for(int i = 0; i < size; i++){
                 int[] cell = q.poll();
-                for (int[] d : direction) {
+                for(int[]d : direction){
                     int nr = cell[0] + d[0];
                     int nc = cell[1] + d[1];
-
-                    if (invalid(nr, nc, grid.length) || visited[nr][nc]) {
+                    if(invalid(nr,nc, grid) || visited[nr][nc]  ){
                         continue;
                     }
-                    if (grid[nr][nc] == 1) {
+                    if(grid[nr][nc] == 1){
                         return level;
-                    } else {
+                    }else{
                         visited[nr][nc] = true;
                         q.offer(new int[]{nr, nc});
                     }
                 }
             }
-            level += 1;
+            level +=1;
         }
         return -1;
     }

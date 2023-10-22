@@ -1,6 +1,7 @@
 # Leetcode(168 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [356. Line Reflection](https://leetcode.com/problems/line-reflection) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/356_line-reflection.java) | |
 | [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2305_fair-distribution-of-cookies.java) | |
 | [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/934_shortest-bridge.java) | |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/48_rotate-image.java) | |
