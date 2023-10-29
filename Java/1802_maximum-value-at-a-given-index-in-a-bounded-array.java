@@ -30,23 +30,20 @@ class Solution {
     }
 }
 
-// n = 6, index = 3,  maxSum = 12
-// [1,1,1,2,1,1]
-//        *
-// index = 3
-// value 2 
+// Left side from given idx:
+//     value > idx
+    //  0 1 2 3 4 5
+    // [2,3,4,5,4,3]  idx = 5
 
-// [2,3,4,5,4,3]
-//        *
-// index = 3
-// value 5
-// n = 6
+    // value <= idx
+    //  0 1 2 3 4 5
+    // [1,1,1,2,1,1]  idx = 5
 
+// Right side from given idx:
+//     value >  n - index
+//      0 1 2 3 4 5
+//     [2,3,4,5,4,3]  idx = 5
 
-// [2,3,4,8,7,6]
-// index = 3
-// value 8
-// n = 6
-
-
-// 2,3,4,5 * 4 / 2
+//     value <= n - index
+//      0 1 2 3 4 5
+//     [1,1,1,2,1,1]  idx = 5

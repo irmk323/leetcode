@@ -1,6 +1,7 @@
-# Leetcode(170 solved)
+# Leetcode(172 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1268_search-suggestions-system.java) | |
 | [1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1802_maximum-value-at-a-given-index-in-a-bounded-array.java) | |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/128_longest-consecutive-sequence.java) | |
 | [356. Line Reflection](https://leetcode.com/problems/line-reflection) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/356_line-reflection.java) | |
