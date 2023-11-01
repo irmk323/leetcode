@@ -1,3 +1,50 @@
+class Solution {
+
+    public int searchStartPosition(String prefix, List<String> sortedProducts){
+        int left = 0, right = sortedProducts.size()-1;
+        while(left <= right){
+            int mid = (left + right)/2;
+            // prefix is earlier
+            // ["a" , "c", "e", "g", "h"] "f" 
+            if(prefix.compareTo(sortedProducts.get(mid)) <= 0){
+                right = mid -1;
+            // prefix is later
+            }else{
+                left = mid +1;
+            }
+        }
+        return left;
+    }
+
+    public void addWordsIntoRes(int basePosition, List<String> sortedProducts , List<List<String>> ans, String prefix){
+        int n = sortedProducts.size();
+        List<String> curList = new ArrayList<>();
+        for(int i = basePosition; i < Math.min(basePosition+3, n );i++){
+            if(sortedProducts.get(i).startsWith(prefix)){
+                curList.add(sortedProducts.get(i));
+            }
+        }
+        ans.add(curList);
+    }
+
+
+    public List<List<String>> suggestedProducts(String[] products, String searchWord) {
+        List<String> sortedProducts = new ArrayList<>(Arrays.asList(products));
+        Collections.sort(sortedProducts);
+        List<List<String>> ans = new ArrayList<>();
+        String prefix = "";
+        int basePosition = 0;
+        for(char c : searchWord.toCharArray()){
+            prefix +=c;
+            basePosition = searchStartPosition(prefix , sortedProducts);
+            addWordsIntoRes(basePosition, sortedProducts, ans, prefix);
+        }
+        return ans;
+    }
+}
+
+
+// actually Trie was slower...
 // Custom class Trie with function to get 3 words starting with given prefix
 class Trie {
 
@@ -129,3 +176,4 @@ class Solution {
         // return res;
     }
 }
+
