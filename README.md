@@ -1,6 +1,8 @@
-# Leetcode(172 solved)
+# Leetcode(174 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/881_boats-to-save-people.java) | |
+| [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/852_peak-index-in-a-mountain-array.java) | |
 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1268_search-suggestions-system.java) | |
 | [1802. Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1802_maximum-value-at-a-given-index-in-a-bounded-array.java) | |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/128_longest-consecutive-sequence.java) | |
