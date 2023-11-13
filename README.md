@@ -1,6 +1,7 @@
-# Leetcode(174 solved)
+# Leetcode(175 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1254_number-of-closed-islands.java) | |
 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/881_boats-to-save-people.java) | |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/852_peak-index-in-a-mountain-array.java) | |
 | [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1268_search-suggestions-system.java) | |
