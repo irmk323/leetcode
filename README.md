@@ -1,6 +1,7 @@
-# Leetcode(175 solved)
+# Leetcode(176 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1797. Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1797_design-authentication-manager.java) | |
 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1254_number-of-closed-islands.java) | |
 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/881_boats-to-save-people.java) | |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/852_peak-index-in-a-mountain-array.java) | |
