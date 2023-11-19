@@ -10,6 +10,7 @@ public class AbstractClasses {
         dog.eat();
         dog.makeNoise();
         System.out.println(AnimalStuff.someThing());
+        // System.out.println(AnimalStuff.saySomething());
     }
 }
 
@@ -47,7 +48,9 @@ public abstract class Animal {
 public interface  AnimalStuff {
     // this gonna be public final
     // int age =  1;
-
+    private String saySomething(){
+        return "Say something";
+    }
     public void eat();
     static int someThing(){
         return 0;
