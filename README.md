@@ -1,4 +1,4 @@
-# Leetcode(184 solved)
+# Leetcode(187 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1027_longest-arithmetic-subsequence.java) | |
