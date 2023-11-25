@@ -1,4 +1,4 @@
-package conceptual;
+package conceptual.MultiThread;
 
 
 class Multi extends Thread { //run method without parameters

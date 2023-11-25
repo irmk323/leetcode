@@ -1,6 +1,17 @@
-# Leetcode(176 solved)
+# Leetcode(184 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1027_longest-arithmetic-subsequence.java) | |
+| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/300_longest-increasing-subsequence.java) | |
+| [399. Evaluate Division](https://leetcode.com/problems/evaluate-division) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/399_evaluate-division.java) | |
+| [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1498_number-of-subsequences-that-satisfy-the-given-sum-condition.java) | |
+| [394. Decode String](https://leetcode.com/problems/decode-string) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/394_decode-string.java) | |
+| [18. 4Sum](https://leetcode.com/problems/4sum) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/18_4sum.java) | |
+| [1481. Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1481_least-number-of-unique-integers-after-k-removals.java) | |
+| [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/253_meeting-rooms-ii.java) | |
+| [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1493_longest-subarray-of-1s-after-deleting-one-element.java) | |
+| [2361. Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2361_minimum-costs-using-the-train-line.java) | |
+| [2369. Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2369_check-if-there-is-a-valid-partition-for-the-array.java) | |
 | [1797. Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1797_design-authentication-manager.java) | |
 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1254_number-of-closed-islands.java) | |
 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/881_boats-to-save-people.java) | |
