@@ -1,6 +1,7 @@
-# Leetcode(187 solved)
+# Leetcode(188 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [837. New 21 Game](https://leetcode.com/problems/new-game) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/837_new-game.java) | |
 | [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1027_longest-arithmetic-subsequence.java) | |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/300_longest-increasing-subsequence.java) | |
 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/399_evaluate-division.java) | |
