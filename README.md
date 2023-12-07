@@ -1,6 +1,9 @@
-# Leetcode(188 solved)
+# Leetcode(191 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/983_minimum-cost-for-tickets.java) | |
+| [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2483_minimum-penalty-for-a-shop.java) | |
+| [139. Word Break](https://leetcode.com/problems/word-break) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/139_word-break.java) | |
 | [837. New 21 Game](https://leetcode.com/problems/new-game) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/837_new-game.java) | |
 | [1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1027_longest-arithmetic-subsequence.java) | |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/300_longest-increasing-subsequence.java) | |
