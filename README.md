@@ -1,4 +1,4 @@
-# Leetcode(191 solved)
+# Leetcode(192 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [808. Soup Servings](https://leetcode.com/problems/soup-servings) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/808_soup-servings.java) | |
