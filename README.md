@@ -1,6 +1,7 @@
 # Leetcode(194 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/5_longest-palindromic-substring.java) | |
 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/946_validate-stack-sequences.java) | |
 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1472_design-browser-history.java) | |
 | [808. Soup Servings](https://leetcode.com/problems/soup-servings) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/808_soup-servings.java) | |
