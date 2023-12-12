@@ -1,4 +1,4 @@
-# Leetcode(194 solved)
+# Leetcode(195 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/5_longest-palindromic-substring.java) | |
