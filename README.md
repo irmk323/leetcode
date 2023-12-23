@@ -1,6 +1,8 @@
-# Leetcode(195 solved)
+# Leetcode(197 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/735_asteroid-collision.java) | |
+| [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1647_minimum-deletions-to-make-character-frequencies-unique.java) | |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/5_longest-palindromic-substring.java) | |
 | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/946_validate-stack-sequences.java) | |
 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1472_design-browser-history.java) | |
