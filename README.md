@@ -1,6 +1,7 @@
-# Leetcode(197 solved)
+# Leetcode(198 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/875_koko-eating-bananas.java) | |
 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/735_asteroid-collision.java) | |
 | [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1647_minimum-deletions-to-make-character-frequencies-unique.java) | |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/5_longest-palindromic-substring.java) | |
