@@ -1,6 +1,7 @@
-# Leetcode(202 solved)
+# Leetcode(203 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/516_longest-palindromic-subsequence.java) | |
 | [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2101_detonate-the-maximum-bombs.java) | |
 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1011_capacity-to-ship-packages-within-d-days.java) | |
 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/442_find-all-duplicates-in-an-array.java) | |
