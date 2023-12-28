@@ -1,6 +1,7 @@
-# Leetcode(203 solved)
+# Leetcode(204 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1140_stone-game-ii.java) | |
 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/516_longest-palindromic-subsequence.java) | |
 | [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2101_detonate-the-maximum-bombs.java) | |
 | [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1011_capacity-to-ship-packages-within-d-days.java) | |
