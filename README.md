@@ -1,6 +1,9 @@
-# Leetcode(204 solved)
+# Leetcode(207 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [443. String Compression](https://leetcode.com/problems/string-compression) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/443_string-compression.java) | |
+| [1615. Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1615_maximal-network-rank.java) | |
+| [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/849_maximize-distance-to-closest-person.java) | |
 | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1140_stone-game-ii.java) | |
 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/516_longest-palindromic-subsequence.java) | |
 | [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2101_detonate-the-maximum-bombs.java) | |
@@ -95,11 +98,11 @@
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/383_ransom-note.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/383_ransom-note.py) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/104_maximum-depth-of-binary-tree.py) |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/33_search-in-rotated-sorted-array.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/33_search-in-rotated-sorted-array.py) |
-| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/36_valid-sudoku.py) |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/36_valid-sudoku.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/36_valid-sudoku.py) |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/746_min-cost-climbing-stairs.py) |
 | [1868. Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/1868_product-of-two-run-length-encoded-arrays.py) |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/70_climbing-stairs.py) |
-| [55. Jump Game](https://leetcode.com/problems/jump-game/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/55_jump-game.py) |
+| [55. Jump Game](https://leetcode.com/problems/jump-game/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/55_jump-game.java)  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/55_jump-game.py) |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/39_combination-sum.py) |
 | [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) |  | [Link](https://github.com/irmk323/leetcode/blob/master/Python/2178_maximum-split-of-positive-even-integers.py) |
 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/733_flood-fill.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/733_flood-fill.py) |
