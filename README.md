@@ -1,6 +1,7 @@
 # Leetcode(210 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [71. Simplify Path](https://leetcode.com/problems/simplify-path) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/71_simplify-path.java) | |
 | [353. Design Snake Game](https://leetcode.com/problems/design-snake-game) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/353_design-snake-game.java) | |
 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o(1)) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/380_insert-delete-getrandom-o(1).java) | |
 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1041_robot-bounded-in-circle.java) | |
