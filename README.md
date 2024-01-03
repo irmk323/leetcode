@@ -1,6 +1,7 @@
-# Leetcode(210 solved)
+# Leetcode(212 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [204. Count Primes](https://leetcode.com/problems/count-primes) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/204_count-primes.java) | |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/71_simplify-path.java) | |
 | [353. Design Snake Game](https://leetcode.com/problems/design-snake-game) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/353_design-snake-game.java) | |
 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o(1)) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/380_insert-delete-getrandom-o(1).java) | |
