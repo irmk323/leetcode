@@ -1,6 +1,7 @@
 # Leetcode(214 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [198. House Robber](https://leetcode.com/problems/house-robber) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/198_house-robber.java) | |
 | [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/688_knight-probability-in-chessboard.java) | |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/143_reorder-list.java) | |
 | [204. Count Primes](https://leetcode.com/problems/count-primes) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/204_count-primes.java) | |
