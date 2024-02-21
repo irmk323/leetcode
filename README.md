@@ -1,6 +1,7 @@
-# Leetcode(217 solved)
+# Leetcode(218 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1529. Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1529_minimum-suffix-flips.java) | |
 | [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2405_optimal-partition-of-string.java) | |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/75_sort-colors.java) | |
 | [198. House Robber](https://leetcode.com/problems/house-robber) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/198_house-robber.java) | |
