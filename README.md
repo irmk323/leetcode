@@ -1,6 +1,7 @@
-# Leetcode(219 solved)
+# Leetcode(221 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1166. Design File System](https://leetcode.com/problems/design-file-system) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1166_design-file-system.java) | |
 | [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1319_number-of-operations-to-make-network-connected.java) | |
 | [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1035_uncrossed-lines.java) | |
 | [1529. Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1529_minimum-suffix-flips.java) | |
