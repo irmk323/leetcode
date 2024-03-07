@@ -9,8 +9,11 @@ class Solution {
         // https://www.youtube.com/watch?v=E-tmN1OM9aA&t=452s
         // for example there's many of possible center
         // abaab 
-        // if substring length is odd a,b,a,a,b can be the center , so 5, 
-        // id substring length is even, between a,b,a,a,b can be the center so 4 
+        // if SUBstring length is odd a,b,a,a,b each chars can be the center, 
+        // so total number is same as the substring chars
+
+        // if substring length is even( e,g [a,b] => 1 centre, [a,b,c,d] => 3 centres), 
+        // between a,b,a,a,b can be the center so 4 
         // then totally 2n -1 is the num of possible palindrome center = O(n)
         // visiting each centre is O(n)
         // checking palindrome is O(n) 
