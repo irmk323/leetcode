@@ -1,6 +1,7 @@
 # Leetcode(223 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/746_min-cost-climbing-stairs.java) | |
 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1091_shortest-path-in-binary-matrix.java) | |
 | [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2616_minimize-the-maximum-difference-of-pairs.java) | |
 | [1166. Design File System](https://leetcode.com/problems/design-file-system) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1166_design-file-system.java) | |
