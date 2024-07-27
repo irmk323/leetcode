@@ -1,17 +1,15 @@
 class Solution {
     public int rob(int[] nums) {
-        int rob1 = 0, rob2 = 0;
-
-        // [4,5,rob1, nob2, curN, curN+1, ...]
-        // so working on n, then shift to right
-        // [4,5, ?  , nob1, nob2, curN, curN+1,...]
-        for(int n : nums){
-            int temp = Math.max(n + rob1, rob2);
-            rob1 = rob2;
-            rob2 = temp;
+        int twoLeftNeighbour = 0, oneleftNeighbour = 0;
+        for(int i = 0; i < nums.length; i++ ){
+            int temp = Math.max(twoLeftNeighbour+ nums[i], oneleftNeighbour);
+            twoLeftNeighbour = oneleftNeighbour;
+            oneleftNeighbour = temp;
         }
-        return rob2;
-
-        
+        return oneleftNeighbour;
     }
 }
+
+//  0, 0 [2,7,9,3,1,[5],3,4,5]
+// in the point of [5] 
+// twoLeftNeighbour is 3, oneleftNeighbour is 1, those shift
