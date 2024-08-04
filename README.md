@@ -1,6 +1,7 @@
 # Leetcode(223 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1143_longest-common-subsequence.java) | |
 | [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1770_maximum-score-from-performing-multiplication-operations.java) | |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/746_min-cost-climbing-stairs.java) | |
 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1091_shortest-path-in-binary-matrix.java) | |
