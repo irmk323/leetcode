@@ -1,6 +1,7 @@
 # Leetcode(223 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1768_merge-strings-alternately.java) | |
 | [322. Coin Change](https://leetcode.com/problems/coin-change) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/322_coin-change.java) | |
 | [221. Maximal Square](https://leetcode.com/problems/maximal-square) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/221_maximal-square.java) | |
 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1143_longest-common-subsequence.java) | |
