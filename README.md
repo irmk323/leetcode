@@ -1,4 +1,4 @@
-# Leetcode(223 solved)
+# Leetcode(230 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1071_greatest-common-divisor-of-strings.java) | |
