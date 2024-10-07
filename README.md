@@ -1,6 +1,7 @@
 # Leetcode(230 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/605_can-place-flowers.java) | |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1071_greatest-common-divisor-of-strings.java) | |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1768_merge-strings-alternately.java) | |
 | [322. Coin Change](https://leetcode.com/problems/coin-change) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/322_coin-change.java) | |
