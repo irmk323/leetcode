@@ -1,29 +1,22 @@
-// Time O(n)
-// Space O(n)
+// O(1)
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        List<Integer> ans = new ArrayList<>();
-        ans.add(1);
-        Integer rp = 1;
-        for(int i = 1; i< nums.length; i++){
-            rp *= nums[i-1];
-            ans.add(rp);
+
+        int n = nums.length;
+        int[] ans = new int[n];
+        ans[0] = 1;
+        for(int i = 1; i < n; i++){
+            ans[i] = ans[i-1] * nums[i-1];
         }
-        // [2*3*4 =24,  3*4 =12, 4,  ]
-        rp = 1;
-        for(int i = nums.length -2; i>=0; i--){
-            rp *= nums[i+1];
-            ans.set(i, ans.get(i) * rp);
+        int R = 1;
+        for(int j = n-1; j >= 0; j--){
+            ans[j] = ans[j] * R;
+            R *= nums[j];
         }
-        int[] resInt = new int[ans.size()];
-        for(int i = 0; i< ans.size(); i++){
-            resInt[i] = ans.get(i);
-        }
-        return resInt;
+      
+        return ans;
     }
 }
-
-// O(n)
 
 
 // [1, 1*2 = 2, 1*2*3 =6, 1*2*3*4 =24]
@@ -54,22 +47,3 @@ class Solution {
 //   for j 
 
 
-// O(1)
-class Solution {
-    public int[] productExceptSelf(int[] nums) {
-
-        int n = nums.length;
-        int[] ans = new int[n];
-        ans[0] = 1;
-        for(int i = 1; i < n; i++){
-            ans[i] = ans[i-1] * nums[i-1];
-        }
-        int R = 1;
-        for(int j = n-1; j >= 0; j--){
-            ans[j] = ans[j] * R;
-            R *= nums[j];
-        }
-      
-        return ans;
-    }
-}
