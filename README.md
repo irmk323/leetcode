@@ -1,6 +1,7 @@
 # Leetcode(230 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/334_increasing-triplet-subsequence.java) | |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/345_reverse-vowels-of-a-string.java) | |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/605_can-place-flowers.java) | |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1071_greatest-common-divisor-of-strings.java) | |
