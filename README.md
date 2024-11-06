@@ -1,4 +1,4 @@
-# Leetcode(230 solved)
+# Leetcode(233 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/334_increasing-triplet-subsequence.java) | |
@@ -107,7 +107,7 @@
 | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/257_binary-tree-paths.py) |
 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/437_path-sum-iii.py) |
 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/518_coin-change-ii.py) |
-| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/392_is-subsequence.py) |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/392_is-subsequence.java) | [Link](https://github.com/irmk323/leetcode/blob/master/Python/392_is-subsequence.py) |
 | [134. Gas Station](https://leetcode.com/problems/gas-station) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/134_gas-station.py) |
 | [51. N-Queens](https://leetcode.com/problems/n-queens) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/51_n-queens.py) |
 | [77. Combinations](https://leetcode.com/problems/combinations) | | [Link](https://github.com/irmk323/leetcode/blob/master/Python/77_combinations.py) |
