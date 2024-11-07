@@ -1,4 +1,4 @@
-# Leetcode(233 solved)
+# Leetcode(236 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/643_maximum-average-subarray-i.java) | |
