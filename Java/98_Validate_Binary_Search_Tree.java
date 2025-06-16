@@ -13,14 +13,29 @@
  *     }
  * }
  */
+
+ */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        return valid(root, null, null); 
-    }
-    private boolean valid(TreeNode root, Integer l, Integer h) {
-        if(root == null) return true;
+        return isBST(root, null, null );
         
-        if(( l != null && root.val >= l) || ( h != null && root.val <= h)) return false;
-        return valid(root.left, root.val , h ) && valid(root.right,  l,root.val );
+    }
+    private boolean isBST(TreeNode root,Integer min, Integer max ){
+        if(root == null){
+            return true;
+        }
+        // while checking left, root.val is always max,
+        // any left node should be less than max
+        if ( (max != null && max <= root.val )
+
+      // while checking right, root.val is always min,
+        // any right node should be more than min
+             || ( min!= null && root.val <= min)){
+            return false;
+        }
+        return isBST(root.left, min, root.val ) 
+        // doesn't care how much the right node can be bigger
+        // just care nodes are more than min = root.val for right
+        && isBST(root.right, root.val , max );
     }
 }

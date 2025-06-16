@@ -1,4 +1,4 @@
-# Leetcode(238 solved)
+# Leetcode(239 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
 | [155. Min Stack](https://leetcode.com/problems/min-stack) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/155_min-stack.java) | |
