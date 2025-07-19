@@ -1,3 +1,4 @@
+// DFS
 class Solution {
     public int numIslands(char[][] grid) {
     if (grid == null || grid.length == 0) {
@@ -25,5 +26,45 @@ class Solution {
         visited_island(grid, y + 1, x);
         visited_island(grid, y, x - 1);
         visited_island(grid, y, x + 1);
+    }
+}
+
+//and BFS
+class Solution {
+    // bfs
+    public int numIslands(char[][] grid) {
+        int count = 0;
+        for(int i = 0; i< grid.length; i++){
+            for(int j = 0; j < grid[0].length ; j++){
+                if(grid[i][j] == '1'){
+                    count++;
+                    bfs(grid, i, j);
+                }
+            }
+        }
+        return count;
+    }
+    private void bfs(char[][] grid, int i, int j){
+        Queue<int[]> queue  = new LinkedList<>();
+        queue.offer(new int[]{i, j} );
+        grid[i][j] = 0;
+
+        while(!queue.isEmpty()){
+            int[] cur = queue.poll();
+            int row = cur[0];
+            int col = cur[1];
+
+            int[][] directions = {{1,0}, {-1,0}, {0,1}, {0,-1}};
+            for(int[] direction: directions){
+                int newRow= row + direction[0];
+                int newCol =col + direction[1];
+                if(newRow <0 || newCol < 0|| grid.length <=newRow || grid[0].length <= newCol
+                        || grid[newRow][newCol] == '0'){
+                    continue;
+                }
+                grid[newRow][newCol] = '0';
+                queue.offer(new int[]{newRow, newCol});
+            }
+        }
     }
 }
