@@ -1,4 +1,5 @@
-// DFS
+// DFS ... goes to the edge ( depth ) first, keeps going to the same direction ( e.g {-1, 0})
+//then return
 class Solution {
     public int numIslands(char[][] grid) {
     if (grid == null || grid.length == 0) {
@@ -29,7 +30,7 @@ class Solution {
     }
 }
 
-//and BFS
+//and BFS. This looks around the 4 direction first and adding 4 direction stems while traversing
 class Solution {
     // bfs
     public int numIslands(char[][] grid) {
