@@ -81,35 +81,42 @@ public class CommonPrimeDivisors {
     public int solution(int[] A, int[] B) {
         int N = A.length;
         int count = 0;
+
         for (int i = 0; i < N; i++) {
             int a = A[i];
             int b = B[i];
-            int g = gcd(a, b);
-            if(a == 1 || b == 1  ) {
-                continue;  //?
+
+            if (a == 1 && b == 1) { // ここが重要
+                count++;
+                continue;
             }
-            if(a==b ||  AreAllPrimesInGCD(a,g) &&
-                    AreAllPrimesInGCD(b,g)){
+            if (a == 1 || b == 1) { // 片方だけ1は不一致
+                continue;
+            }
+
+            int g = gcd(a, b);
+            if (areAllPrimesInGCD(a, g) && areAllPrimesInGCD(b, g)) {
                 count++;
             }
         }
         return count;
     }
 
-    /**
-     * Helper function: Calculate GCD using Euclidean algorithm
-     */
     private int gcd(int a, int b) {
-        if (b == 0) {
-            return a;
+        while (b != 0) {
+            int t = a % b;
+            a = b;
+            b = t;
         }
-        return gcd(b, a % b);
+        return a;
     }
-    public boolean AreAllPrimesInGCD(int n, int g) {
-        while( gcd(n, g) > 1 ){
-           n = n / gcd(n, g);
+
+    private boolean areAllPrimesInGCD(int n, int g) {
+        int d;
+        while ((d = gcd(n, g)) > 1) {
+            n /= d;
         }
-        return  n == 1;
+        return n == 1;
     }
 
     // ==================== TEST CASES ====================
