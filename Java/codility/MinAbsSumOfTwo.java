@@ -7,7 +7,7 @@ import java.util.*;
 class Solution {
     public int solution(int[] A) {
         // do the sort and take from both side,
-        // it's good if its' closed to 0
+        // it's good if its' closed to 0    
 
         int n = A.length;
         Arrays.sort(A);
