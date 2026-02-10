@@ -1,6 +1,7 @@
-# Leetcode(239 solved)
+# Leetcode(240 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/14_longest-common-prefix.java) | |
 | [155. Min Stack](https://leetcode.com/problems/min-stack) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/155_min-stack.java) | |
 | [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/286_walls-and-gates.java) | |
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1004_max-consecutive-ones-iii.java) | |
