@@ -1,6 +1,7 @@
 # Leetcode(240 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/594_longest-harmonious-subsequence.java) | |
 | [1176. Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1176_diet-plan-performance.java) | |
 | [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/3318_find-x-sum-of-all-k-long-subarrays-i.java) | |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/219_contains-duplicate-ii.java) | |
