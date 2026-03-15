@@ -1,6 +1,7 @@
 # Leetcode(240 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1876_substrings-of-size-three-with-distinct-characters.java) | |
 | [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1763_longest-nice-substring.java) | |
 | [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1652_defuse-the-bomb.java) | |
 | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/594_longest-harmonious-subsequence.java) | |
