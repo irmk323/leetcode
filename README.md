@@ -1,6 +1,7 @@
-# Leetcode(240 solved)
+# Leetcode(249 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/225_implement-stack-using-queues.java) | |
 | [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2379_minimum-recolors-to-get-k-consecutive-black-blocks.java) | |
 | [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/2269_find-the-k-beauty-of-a-number.java) | |
 | [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1876_substrings-of-size-three-with-distinct-characters.java) | |
