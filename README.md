@@ -1,6 +1,7 @@
 # Leetcode(249 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1047_remove-all-adjacent-duplicates-in-string.java) | |
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/844_backspace-string-compare.java) | |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/496_next-greater-element-i.java) | |
 | [682. Baseball Game](https://leetcode.com/problems/baseball-game) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/682_baseball-game.java) | |
