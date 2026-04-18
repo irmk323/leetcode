@@ -1,6 +1,7 @@
 # Leetcode(249 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1544_make-the-string-great.java) | |
 | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1475_final-prices-with-a-special-discount-in-a-shop.java) | |
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1047_remove-all-adjacent-duplicates-in-string.java) | |
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/844_backspace-string-compare.java) | |
