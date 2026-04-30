@@ -1,6 +1,7 @@
 # Leetcode(249 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/739_daily-temperatures.java) | |
 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1021_remove-outermost-parentheses.java) | |
 | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1544_make-the-string-great.java) | |
 | [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1475_final-prices-with-a-special-discount-in-a-shop.java) | |
