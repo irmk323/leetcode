@@ -8,49 +8,43 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
-//  1 2 3 4 5 6 7 8 
-//  1 8 2 7 3 6 4 
-
-// middle 
-// reverse 
-// merge
 class Solution {
     public void reorderList(ListNode head) {
-        ListNode mid = findMidNode(head);
-        ListNode reverseMid = reverseMid(mid);
+        ListNode mid = findMid(head);
+        ListNode second = reverse(mid.next);
+        mid.next= null;
+        ListNode first = head;
+        while(second != null){
+            //evacuate next for each 
+            ListNode firstTmp = first.next;
+            ListNode secondTmp = second.next;
 
-        ListNode tmp = null;
-        while(reverseMid.next != null){
-            tmp = head.next;
-            head.next = reverseMid;
-            head = tmp;
-
-            tmp = reverseMid.next;
-            reverseMid.next = head;
-            reverseMid = tmp;
-        } 
-        
+            first.next = second;
+            second.next= firstTmp;
+            
+            first = firstTmp;
+            second = secondTmp;
+        }
     }
-
-    private ListNode reverseMid(ListNode cur){
+    private ListNode findMid(ListNode head){
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast.next != null && fast.next.next != null){
+            slow = slow.next;
+            fast= fast.next.next;
+        }
+        return slow;
+    }
+    private ListNode reverse(ListNode node){
         ListNode prev = null;
-        ListNode tmp ;
+        ListNode cur = node;
         while(cur != null){
-            tmp = cur.next;
-            cur.next= prev;
+            ListNode tmp = cur.next;
+            cur.next = prev;
             prev = cur;
             cur = tmp;
         }
         return prev;
     }
-    private ListNode findMidNode(ListNode cur){
-        ListNode fast = cur;
-        ListNode slow = cur;
-        while(fast != null && fast.next != null  ){
-            fast = fast.next.next;
-            slow = slow.next;
-        }
-        return slow;
-    }
+
 }
