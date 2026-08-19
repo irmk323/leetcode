@@ -1,6 +1,7 @@
 # Leetcode(249 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/287_find-the-duplicate-number.java) | |
 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/1046_last-stone-weight.java) | |
 | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/703_kth-largest-element-in-a-stream.java) | |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-matrix) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/74_search-a-matrix.java) | |
