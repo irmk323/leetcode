@@ -27,6 +27,13 @@ class Solution {
             }
         }
         groupNext = groupEnd.next;
+
+
+        // prev → [ start ........ end ] → next 
+
+        // reverse
+
+        //  // prev → [ end ........ start ] → next
         reverse(groupStart, groupNext);
         groupPrev.next =groupEnd;
         groupPrev = groupStart;
