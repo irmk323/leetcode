@@ -1,6 +1,7 @@
 # Leetcode(249 solved)
 | Problem | Solution<br>(Java) | Solution<br>(Python) |
 | ------------- | ------------- | ------------- |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/49_group-anagrams.java) | |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/25_reverse-nodes-in-k-group.java) | |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/23_merge-k-sorted-lists.java) | |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | [Link](https://github.com/irmk323/leetcode/blob/master/Java/287_find-the-duplicate-number.java) | |
