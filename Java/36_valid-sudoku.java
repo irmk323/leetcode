@@ -29,3 +29,31 @@ class Solution {
         return true;
     }
 }
+
+====
+class Solution {
+    public boolean isValidSudoku(char[][] board) {
+        List<Set<Character>> row = new ArrayList<>();
+        List<Set<Character>> col = new ArrayList<>();
+        List<Set<Character>> box = new ArrayList<>();
+
+        for(int i =0; i< 9;i++){
+            row.add(new HashSet<>());
+            col.add(new HashSet<>());
+            box.add(new HashSet<>());
+        }
+
+        for(int r = 0; r< board.length; r++){
+            for(int c=0; c< board[0].length; c++){
+                char cell = board[r][c];
+                if(cell!= '.'){
+                    if(!row.get(r).add(cell) || !col.get(c).add(cell) || 
+                    !box.get( (r /3) *3 + (c/3) ).add(cell) ) {
+                        return false;
+                    }
+                }
+            }
+        }
+        return true;
+    }
+}
